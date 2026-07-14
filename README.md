@@ -113,7 +113,7 @@ const saiHarshini = {
 
 ## 💼 Experience
 
-**🔵 AI Engineer — DXC Technology** · Kansas, USA
+**🔵 AI Engineer — Siemens** · Kansas, USA
 `Jan 2025 – Present`
 > Production ML systems · NLP pipelines · FastAPI on AWS · Structured model evaluation
 
